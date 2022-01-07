@@ -33,6 +33,10 @@
   filter: brightness(0%)
 }
 
+.pokeImg2 {
+  width: 500px;
+}
+
 .pokeName {
   font-family: 'Press Start 2P', cursive;
   text-transform: uppercase;
